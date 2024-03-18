@@ -38,7 +38,7 @@ public class TimezoneValidateFilter extends HttpFilter {
                     "font-size: 50px;\n" +
                     "text-align: center;\n" +
                     "color: yellow;\n" +
-                    "margin-top: 40%;\n" +
+                    "margin-top: 25%;\n" +
                     "}" +
                     "</style>");
 

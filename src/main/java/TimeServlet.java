@@ -52,7 +52,7 @@ public class TimeServlet extends HttpServlet {
                 "font-size: 50px;\n" +
                 "text-align: center;\n" +
                 "color: chartreuse;\n" +
-                "margin-top: 40%;\n" +
+                "margin-top: 25%;\n" +
                 "}" +
                 "</style>");
 
